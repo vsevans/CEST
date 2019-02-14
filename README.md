@@ -15,5 +15,6 @@ Primary functions of the code enclosed:
 If these codes are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
 
 Vincent Evans
+UCL Centre for Medical Imaging
 
 2019-02-14: Script(s) and dummy data will be uploaded in the coming weeks. Please check-back soon.
