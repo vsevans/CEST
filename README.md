@@ -11,8 +11,8 @@ Primary functions of the code enclosed:
 2) Asymmetry calculations from the normalized data.
 3) Production of CEST maps.
 
-If these codes are useful to you and feed into your future work please acknowledge their use by referencing the above paper in any resulting publications.
-
-2019-02-14: Raw scripts have been uploaded. These will soon be tidied up (de-cluttering, de-duplication of sections of code written during development, additional commenting for ease of use).
+If these codes are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
 
 Vincent Evans
+
+2019-02-14: Raw scripts have been uploaded. These will soon be tidied up (de-cluttering, de-duplication of sections of code written during development, additional commenting for ease of use etc).
