@@ -18,4 +18,4 @@ Vincent Evans
 UCL Centre for Medical Imaging
 
 2019-02-14: Script(s) and dummy data will be uploaded shortly. Please check back soon.
-2019-07-21: I have not forgotten about this. Please check back soon.
+2019-07-21: I have not forgotten about this. Apologies for the delay. Please check back soon.
