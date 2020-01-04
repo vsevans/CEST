@@ -1,7 +1,7 @@
 # CEST
 Codes and materials for CEST MRI data analysis
 
-Matlab script and functions contained here-in are provided in support of the publication "Optimization and repeatability of multi-pool chemical exchange saturation transfer MRI of the prostate at 3.0T" DOI: 10.1002/jmri.26690
+The Matlab script (CEST_Script.m), functions and data contained here-in are provided in support of the publication "Optimization and repeatability of multi-pool chemical exchange saturation transfer MRI of the prostate at 3.0T" DOI: 10.1002/jmri.26690
 
 They may be useful to anyone interested in implementing Lorentzian linefitting analysis of CEST MRI data.
 
@@ -12,9 +12,9 @@ Primary functions of the code enclosed:
 3) Production of CEST and other parameter maps.
 4) Parameter histograms.
 
-The code provided is not in polished form, but should allow the user to make a start and visualise CEST fitting results quickly. The matlab file provided contains data from a phantom scan which can be run through as a demonstration.
+The code provided is not polished but should allow the user to make a start and to visualise CEST fitting results quickly. The data file provided contains data from a phantom scan which can be run through as a demonstration.
 
-If these codes are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
+If these materials are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
 
 Vincent Evans
 UCL Centre for Medical Imaging
