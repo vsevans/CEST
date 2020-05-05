@@ -12,10 +12,11 @@ Primary functions of the code enclosed:
 3) Production of CEST and other parameter maps.
 4) Parameter histograms.
 
-The code provided is not polished but should allow the user to make a start and to visualise CEST fitting results quickly. The data file provided contains data from a phantom scan which can be run through as a demonstration.
+The code provided is intended to allow the user to start generating and visualising CEST fitting results quickly. The intention is that this can be used as a basis for more detailed, context-specific analysis. 
+
+A file with phantom test data is provided. This can be used to run the whole script through end-to-end.
 
 If these materials are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
-
 
 % Vincent Evans
 % vincent.evans.14@ucl.ac.uk
