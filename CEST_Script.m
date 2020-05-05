@@ -1,3 +1,21 @@
+% Purpose: This script allows the user to fit z-spectra using 6-pools (water, amide, amine, hydroxyl, NOE, MT).
+% It allows for both voxel-wise and ROI-based analysis and for the generation of parameter maps.
+% The user may wish to extend or amend the script for their own purposes.
+
+% The script, functions and test data provided in this repository are primarily provided in support of the 
+% publication "Optimization and repeatability of multi-pool chemical exchange saturation transfer 
+% MRI of the prostate at 3.0T" DOI: 10.1002/jmri.26690
+
+% If these materials are useful to you and feed into your future work, please acknowledge 
+% this by referencing the above paper in any resulting publications.
+
+% Vincent Evans
+% vincent.evans.14@ucl.ac.uk
+% UCL Centre for Medical Imaging
+% https://github.com/vsevans/CEST
+
+% SCRIPT BEGINS
+
 % Start assuming the following objects exist in the current workspace:
 % (they can be loaded from the Matlab file provided)
 
