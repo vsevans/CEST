@@ -16,6 +16,8 @@ The code provided is not polished but should allow the user to make a start and 
 
 If these materials are useful to you and feed into your future work please acknowledge this by referencing the above paper in any resulting publications.
 
-Vincent Evans
-vincent.evans.14@ucl.ac.uk
-UCL Centre for Medical Imaging
+
+% Vincent Evans
+% vincent.evans.14@ucl.ac.uk
+% UCL Centre for Medical Imaging
+% https://github.com/vsevans/CEST
