@@ -15,7 +15,7 @@
 % (3) RefDataRaw
 % Description: A set of unsaturated reference images.
 % Dimensions: The same as CESTToFitNorm but with a size of only 1 in the
-% 'file' dimension.
+% 'offsets' dimension.
 
 %% For testing:
 % Phantom data - 6 falcon tubes containing various concentrations of 
