@@ -18,9 +18,3 @@ If these materials are useful to you and feed into your future work please ackno
 
 Vincent Evans
 UCL Centre for Medical Imaging
-
-2019-02-14: Script(s) and dummy data will be uploaded shortly. Please check back soon.
-
-2019-07-21: I have not forgotten about this. Please check back soon.
-
-2020-01-04: Basic script, functions and dataset have been uploaded. 
