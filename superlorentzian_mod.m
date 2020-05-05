@@ -40,10 +40,10 @@ end;
 SL_all = nan(size(offsetppms));
 SL_all_shifted = nan(size(offsetppms));
 
-if numel(ppm_outer)>2 & numel(SL_outer)>2 & numel(offsetppms)>2 & numel(SL_all)>2; % had to put this if clause in to 'trick' the 'fittype' errors into going away
+if numel(ppm_outer)>2 & numel(SL_outer)>2 & numel(offsetppms)>2 & numel(SL_all)>2; % needed to avoid 'fittype' errors
     SL_all = interp1(ppm_outer',SL_outer,offsetppms,'spline');
     %apply offset
-    SL_all_shifted = interp1(offsetppms,SL_all,offsetppms-pos_ppm,'pchip'); %pchip is shape preserving and stops weird interpolated values appearing at faraway offsets quite nicely
+    SL_all_shifted = interp1(offsetppms,SL_all,offsetppms-pos_ppm,'pchip'); %pchip is shape preserving 
 
 end;
 
